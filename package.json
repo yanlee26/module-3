@@ -1,0 +1,23 @@
+{
+  "name": "module-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanlee26/module-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanlee26/module-3/issues"
+  },
+  "homepage": "https://github.com/yanlee26/module-3#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
