@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yanlee26/module-3#readme",
   "devDependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
